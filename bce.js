@@ -1,23 +1,3 @@
-// alert('Baran cem')
-
-// console.log("Baran Cem");
-// console.log(16);
-// var x=5;
-// var y=7;
-// console.log(x+y);
-
-// let gun=20;
-// let ay=8;
-// let yil=2002;
-// console.log(gun,ay,yil);
-// console.log("Baran Cem "+gun+"/"+ay+"/"+yil+" tarihinde doğmuştur");
-// let değiştirilebilir.
-// var fiyati=100000;
-// console.log(fiyati);
-// const arabafiyati=350000;
-// console.log(arabafiyati);
-// const değiştirilemez
-
 
 const addForm=document.querySelector('.add');
 const list=document.querySelector('.todos');

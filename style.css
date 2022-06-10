@@ -1,5 +1,5 @@
     body {
-        background: #CB6363;
+        background: #3CA5B5;
     }
 
     ::placeholder {
@@ -18,7 +18,7 @@
     }
 
     .todos li{
-        background: #D87E7E;
+        background: #2B5960;
     }
 
     .delete {
